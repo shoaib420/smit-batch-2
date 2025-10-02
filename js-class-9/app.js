@@ -62,5 +62,5 @@
 // console.log(result )
 
 var num = "77"
-
+num = parseInt(num)
 console.log(typeof num)
