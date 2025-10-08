@@ -43,6 +43,12 @@
 // arr.fill("sahil");
 // console.log(arr)
 
-var arr = [ 1,2,3,4,5];
-arr.reverse()
-console.log(arr)
+// var arr = [ 1,2,3,4,5];
+// arr.reverse()
+// console.log(arr) 
+
+var names = ["ali", "haris", "fardeen", "sahil", "zeeshan "];
+// names.sort()
+// names.copyWithin(2,0)
+// names.splice(5,0, "shoaib") ;
+console.log(names)
